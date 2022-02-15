@@ -27,7 +27,8 @@ geo = IpGeolocation::Geo.new
 
 geo.ip "your ip"
 
-geo.location```
+geo.location
+```
 
 ## Development
 
